@@ -17,7 +17,7 @@ namespace Inlämningsuppgift_4__Grupparbete_
             // Vanessa
             // Kevin
             //BANANAS
-            //Hahaha
+            //Hej hej
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
